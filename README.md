@@ -14,6 +14,12 @@ pip install maturin
 LIBTORCH_USE_PYTORCH=1 maturin develop
 ```
 
+## Install from pypi
+
+```bash
+pip install torch-lib-with-rust
+```
+
 ## Run
 
 ```python
